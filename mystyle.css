@@ -1,0 +1,12 @@
+
+
+body {background-color: rgb(68,68,68);}
+body {border: 10px lightgray;}
+h1   {color: white;
+	  font: helvetica; text-align: center;}
+h2 {font: arial;
+	color: white;}
+	p    {color: white;}
+	a    {color: rgb(129,203,158);
+			text-align: center;}
+section h3 {color: rgb(187,187,187);}
